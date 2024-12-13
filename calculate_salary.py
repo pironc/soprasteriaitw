@@ -1,6 +1,6 @@
 ##
 ## SOPRA STERIA ITW
-## EVEN OR ODD
+## CALCULATE SALARY
 ##
 
 
