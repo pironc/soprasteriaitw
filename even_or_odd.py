@@ -47,9 +47,14 @@ def even_odd(num):
 
 # Main function to run the program and get default variables to use in the program functions
 def main():
+
+    # read_number is the "LEER NOMBRE" or "LIRE NOMBRE" instruction from the document
     num = read_number()
+
+    # showing the randomized number used for the program testing, up to 42 included
     print(f"Randomized number: {num}")
     ret = even_odd(num)
+
     return (ret)
 
 main()
